@@ -1,0 +1,19 @@
+{
+  "name": "yubico-auth-js",
+  "version": "0.1.0",
+  "description": "Javascript authentication for Yubico YubiKey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ais047/yubico-auth-js.git"
+  },
+  "author": "Sungwoo Hur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ais047/yubico-auth-js/issues"
+  },
+  "homepage": "https://github.com/ais047/yubico-auth-js#readme"
+}
