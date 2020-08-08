@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ais047/yubico-auth-js/issues"
   },
-  "homepage": "https://github.com/ais047/yubico-auth-js#readme"
+  "homepage": "https://github.com/ais047/yubico-auth-js#readme",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
 }
